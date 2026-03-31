@@ -70,10 +70,11 @@ This PCB was designed using **Altium Designer** and was developed for **SC Robot
 ## Images
 
 ### Schematic
-![Schematic](assets/orin_hat_schematic.png)
+![Schematic](assets/orin_hat_schematic.jpg)  
+> **Note:** The second schematic page showing the 5V regulator and LED drive circuits is not included here, as it is secondary to the main breakout connections.
 
 ### PCB Layout
-![PCB Layout](assets/orin_hat_pcb_layout.png)
+![PCB Layout](assets/orin_hat_layout.jpg)
 
 ### 3D PCB Render
-![3D PCB](assets/orin_hat_pcb_render.png)
+![3D PCB](assets/orin_hat_pcb_render.jpg)
